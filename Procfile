@@ -1,0 +1,1 @@
+web: node qish.js
